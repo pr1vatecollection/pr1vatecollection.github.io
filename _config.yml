@@ -1,0 +1,11 @@
+title: Pr1vate
+email: aval@stefanovic.ventures
+description: Pr1vate Collection Music
+url: "https://pr1vatecollection.com"
+twitter_username: avaljawanda
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+    - jekyll-feed
